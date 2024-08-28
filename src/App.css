@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.block-row {
+  position: relative;
+  height: 5px;
+}
+
+.block {
+  display: inline-block;
+  background: #3c3d37;
+  width: 5px;
+  height: 5px;
+  transition: background 1s ease-in-out;
+
+  &.passed {
+    background: #697565;
+  }
+}
