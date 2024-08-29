@@ -53,7 +53,7 @@ function App() {
 
   const calculateMinutesPassed = () => {
     const now = new Date();
-    const startDate = new Date(now.getFullYear(), 7, 28, 18, 0, 0);
+    const startDate = new Date(now.getFullYear(), 7, 29, 19, 0, 0);
     const diffInMs = now.getTime() - startDate.getTime();
     const diffInMinutes = Math.floor(diffInMs / (1000 * 60));
     setMinPassed(diffInMinutes);
