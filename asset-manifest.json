@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fortyk/static/css/main.5dc0d876.css",
-    "main.js": "/fortyk/static/js/main.e2ebd101.js",
+    "main.js": "/fortyk/static/js/main.28d6794e.js",
     "static/js/453.37d5f081.chunk.js": "/fortyk/static/js/453.37d5f081.chunk.js",
     "index.html": "/fortyk/index.html",
     "main.5dc0d876.css.map": "/fortyk/static/css/main.5dc0d876.css.map",
-    "main.e2ebd101.js.map": "/fortyk/static/js/main.e2ebd101.js.map",
+    "main.28d6794e.js.map": "/fortyk/static/js/main.28d6794e.js.map",
     "453.37d5f081.chunk.js.map": "/fortyk/static/js/453.37d5f081.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dc0d876.css",
-    "static/js/main.e2ebd101.js"
+    "static/js/main.28d6794e.js"
   ]
 }
